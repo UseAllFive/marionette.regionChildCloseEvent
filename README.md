@@ -1,0 +1,2 @@
+marionette.regionChildCloseEvent
+================================
